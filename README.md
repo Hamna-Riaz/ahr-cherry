@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahr-cherry
+- 👋 Hi, I’m @Hamna Riaz
 - 👀 I’m interested in Web development and Web designing...
 - 🌱 I’m currently wokring as a designer and web developer at SOLVIZION(www.solvizion.com) 
 <!---
